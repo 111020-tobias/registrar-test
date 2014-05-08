@@ -106,6 +106,7 @@
 			Value/Length: <input type="text" name="length" />
 			<input type="submit" name="create_column" value="Create" />
 		</form>
-			asdnamdnsamdamsndamsnd
+			asdnamdnsamdamsndamsndansdkasndkajsdn
+			asdasdb
 	</body>
 </html>
